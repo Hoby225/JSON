@@ -1,0 +1,1048 @@
+[
+   {
+      "partNumber": "P5Z202300",
+      "partName": "Motor - Teilkomplett",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 1406.69
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 1406.69
+            }
+         }
+      ],
+      "retailPrice": 1562.99,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "BOTH",
+            "direction": "AFTER",
+            "partNumber": "P5Z202300A"
+         },
+         {
+            "replacementType": "BOTH",
+            "direction": "AFTER",
+            "partNumber": "P5Z202300A"
+         },
+         {
+            "replacementType": "BOTH",
+            "direction": "AFTER",
+            "partNumber": "P5Z202300B"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "PEXN02300B",
+      "partName": "ENGINE,PARTIAL-CONVENTIONAL",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3238.64
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3238.64
+            }
+         }
+      ],
+      "retailPrice": 3598.49,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "PEXN02300A"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "AFTER",
+            "partNumber": "PEXN02300C"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "PEXN02300"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "PYY502200",
+      "partName": "Teilmotor",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 1533.32
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 1533.32
+            }
+         }
+      ],
+      "retailPrice": 1703.69,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "ENGINSHORT"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "S5Y702300B",
+      "partName": "Teilmotor",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 4168.91
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 4168.91
+            }
+         }
+      ],
+      "retailPrice": 4632.12,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "8LC302310",
+      "partName": "Dichtsatz",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 40,
+               "priceNet": 78.86
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 25,
+               "priceNet": 98.57
+            }
+         }
+      ],
+      "retailPrice": 131.43,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "ENGGASKSET"
+      },
+      "componentInfo": [
+         {
+            "componentPartNumber": "8LC302310A",
+            "componentAmount": 1
+         },
+         {
+            "componentPartNumber": "LF0315165A",
+            "componentAmount": 1
+         },
+         {
+            "componentPartNumber": "LF6T20305",
+            "componentAmount": 1
+         },
+         {
+            "componentPartNumber": "LF0214342",
+            "componentAmount": 1
+         },
+         {
+            "componentPartNumber": "LF0120306",
+            "componentAmount": 1
+         },
+         {
+            "componentPartNumber": "LF01102C8",
+            "componentAmount": 1
+         },
+         {
+            "componentPartNumber": "L80713111",
+            "componentAmount": 4
+         },
+         {
+            "componentPartNumber": "L3K915169",
+            "componentAmount": 1
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "PEYG02300B",
+      "partName": "ENGINE,PARTIAL-CONVENTIONAL",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3238.64
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3238.64
+            }
+         }
+      ],
+      "retailPrice": 3598.49,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "PEYG02300A"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "AFTER",
+            "partNumber": "PEYG02300C"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "CA2103000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 1693.45
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 1693.45
+            }
+         }
+      ],
+      "retailPrice": 1881.61,
+      "validFrom": "2020-06-15",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "COMPLMT"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "EW1B03000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3670.57
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3670.57
+            }
+         }
+      ],
+      "retailPrice": 4078.41,
+      "validFrom": "2020-06-15",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "AFTER",
+            "partNumber": "E0Y103000"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "FWP403000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3845.07
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3845.07
+            }
+         }
+      ],
+      "retailPrice": 4272.3,
+      "validFrom": "2020-06-15",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "AFTER",
+            "partNumber": "F0YS03000"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "000000033A0E",
+      "partName": "Warndreieck",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 30,
+               "priceNet": 3.91
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 15,
+               "priceNet": 4.74
+            }
+         }
+      ],
+      "retailPrice": 5.58,
+      "validFrom": "2020-01-01",
+      "classification": {
+         "productCategory": "ACCESSORIES",
+         "productClass": "SAFETY & PROTECTION",
+         "productGroup": "SAFETY",
+         "productGroupDescription": "WARNTRIANG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "BOTH",
+            "direction": "AFTER",
+            "partNumber": "410077100 0E"
+         },
+         {
+            "replacementType": "BOTH",
+            "direction": "AFTER",
+            "partNumber": "410077100 0E"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "LFY502300D",
+      "partName": "Motor - Teilkomplett",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3698.93
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3698.93
+            }
+         }
+      ],
+      "retailPrice": 4109.93,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "LFY502300C"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "PEYA02300G",
+      "partName": "ENGINE,PARTIAL-CONVENTIONAL",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3429.14
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3429.14
+            }
+         }
+      ],
+      "retailPrice": 3810.16,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "PEYA02300E"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "8LE302310",
+      "partName": "Dichtsatz (AF)",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 40,
+               "priceNet": 41.26
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 25,
+               "priceNet": 51.57
+            }
+         }
+      ],
+      "retailPrice": 68.76,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "ENGGASKSET"
+      },
+      "componentInfo": [
+         {
+            "componentPartNumber": "8LE302310A",
+            "componentAmount": 1
+         },
+         {
+            "componentPartNumber": "LF0315165A",
+            "componentAmount": 1
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "E0Y303000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3670.57
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3670.57
+            }
+         }
+      ],
+      "retailPrice": 4078.41,
+      "validFrom": "2020-06-15",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "EW7203000"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "CWY603000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3718.73
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3718.73
+            }
+         }
+      ],
+      "retailPrice": 4131.92,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "AFTER",
+            "partNumber": "C0Y103000"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "E0YE03000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 4050.41
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 4050.41
+            }
+         }
+      ],
+      "retailPrice": 4500.45,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "GS8S09010D",
+      "partName": "Schloss-Satz",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 15,
+               "priceNet": 167.65
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 15,
+               "priceNet": 167.65
+            }
+         }
+      ],
+      "retailPrice": 197.24,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "KEYSET",
+         "productGroupDescription": "KEYSET"
+      },
+      "superSessions": [
+         {
+            "replacementType": "BOTH",
+            "direction": "BEFORE",
+            "partNumber": "GS8S09010C"
+         },
+         {
+            "replacementType": "BOTH",
+            "direction": "BEFORE",
+            "partNumber": "GS8S09010A"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "D65309010J",
+      "partName": "Schloss-Satz",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 15,
+               "priceNet": 267.95
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 15,
+               "priceNet": 267.95
+            }
+         }
+      ],
+      "retailPrice": 315.24,
+      "validFrom": "2019-11-01",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "KEYSET",
+         "productGroupDescription": "KEYSET"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "D65309010K"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "D65309010G"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "EW8H03000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 4774.05
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 4774.05
+            }
+         }
+      ],
+      "retailPrice": 5304.5,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "FNP303000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3396.07
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3396.07
+            }
+         }
+      ],
+      "retailPrice": 3773.41,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "PYYA02200",
+      "partName": "ENGINE,SHORT-CONVENTIONAL",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 1293.36
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 1293.36
+            }
+         }
+      ],
+      "retailPrice": 1437.07,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "ENGINSHORT"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "P5X202300",
+      "partName": "Motor - Teilkomplett",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3619.89
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3619.89
+            }
+         }
+      ],
+      "retailPrice": 4022.1,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "BOTH",
+            "direction": "AFTER",
+            "partNumber": "P5X202300A"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "SHY702300R",
+      "partName": "ENGINE,PARTIAL-DIESEL",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 4466.36
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 4466.36
+            }
+         }
+      ],
+      "retailPrice": 4962.62,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "AFTER",
+            "partNumber": "SHY702300S"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "SHY702300P"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "SHY702300M"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "F0YT03000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3889.54
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3889.54
+            }
+         }
+      ],
+      "retailPrice": 4321.71,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "FWJM03000"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "FWHV03000"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "FWJR03000"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "FWHW03000"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "FWJL03000"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "FWJG03000"
+         },
+         {
+            "replacementType": "FORWARD",
+            "direction": "BEFORE",
+            "partNumber": "FWJJ03000"
+         }
+      ],
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "M60103000",
+      "partName": "Manuelles Getriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 2068.57
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 2068.57
+            }
+         }
+      ],
+      "retailPrice": 2298.41,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "COMPLMT"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "FW8F03000",
+      "partName": "Automatikgetriebe",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3250.58
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3250.58
+            }
+         }
+      ],
+      "retailPrice": 3611.75,
+      "validFrom": "2019-10-28",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "TRANSMISSION",
+         "productGroupDescription": "ATCOMPLETE"
+      },
+      "isExchangePart": false
+   },
+   {
+      "partNumber": "LFY302300C",
+      "partName": "Motor - Teilkomplett",
+      "currency": "EUR",
+      "dealerPrices": [
+         {
+            "processingType": "SO",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3698.93
+            }
+         },
+         {
+            "processingType": "VOR",
+            "dealerPrice": {
+               "discountPercentage": 10,
+               "priceNet": 3698.93
+            }
+         }
+      ],
+      "retailPrice": 4109.93,
+      "validFrom": "2020-10-19",
+      "classification": {
+         "productCategory": "PARTS",
+         "productClass": "CAPTIVE PARTS",
+         "productGroup": "ENGINE",
+         "productGroupDescription": "PARTIALENG"
+      },
+      "superSessions": [
+         {
+            "replacementType": "FORWARD",
+            "direction": "AFTER",
+            "partNumber": "LFY302300D"
+         }
+      ],
+      "isExchangePart": false
+   }
+]
