@@ -1,0 +1,79 @@
+[ {
+  "partNumber" : "P5Z202300",
+  "partName" : "Motor - Teilkomplett",
+  "currency" : "EUR",
+  "dealerPrices" : [ {
+    "processingType" : "SO",
+    "dealerPrice" : {
+      "discountPercentage" : 10,
+      "priceNet" : 1406.69
+    }
+  }, {
+    "processingType" : "VOR",
+    "dealerPrice" : {
+      "discountPercentage" : 10,
+      "priceNet" : 1406.69
+    }
+  } ],
+  "retailPrice" : 1562.99,
+  "validFrom" : "2020-10-19",
+  "classification" : {
+    "productCategory" : "PARTS",
+    "productClass" : "CAPTIVE PARTS",
+    "productGroup" : "ENGINE",
+    "productGroupDescription" : "PARTIALENG"
+  },
+  "superSessions" : [ {
+    "replacementType" : "BOTH",
+    "direction" : "AFTER",
+    "partNumber" : "P5Z202300A"
+  }, {
+    "replacementType" : "BOTH",
+    "direction" : "AFTER",
+    "partNumber" : "P5Z202300A"
+  }, {
+    "replacementType" : "BOTH",
+    "direction" : "AFTER",
+    "partNumber" : "P5Z202300B"
+  } ],
+  "isExchangePart" : false
+}, {
+  "partNumber" : "PEXN02300B",
+  "partName" : "ENGINE,PARTIAL-CONVENTIONAL",
+  "currency" : "EUR",
+  "dealerPrices" : [ {
+    "processingType" : "SO",
+    "dealerPrice" : {
+      "discountPercentage" : 10,
+      "priceNet" : 3238.64
+    }
+  }, {
+    "processingType" : "VOR",
+    "dealerPrice" : {
+      "discountPercentage" : 10,
+      "priceNet" : 3238.64
+    }
+  } ],
+  "retailPrice" : 3598.49,
+  "validFrom" : "2020-10-19",
+  "classification" : {
+    "productCategory" : "PARTS",
+    "productClass" : "CAPTIVE PARTS",
+    "productGroup" : "ENGINE",
+    "productGroupDescription" : "PARTIALENG"
+  },
+  "superSessions" : [ {
+    "replacementType" : "FORWARD",
+    "direction" : "BEFORE",
+    "partNumber" : "PEXN02300A"
+  }, {
+    "replacementType" : "FORWARD",
+    "direction" : "AFTER",
+    "partNumber" : "PEXN02300C"
+  }, {
+    "replacementType" : "FORWARD",
+    "direction" : "BEFORE",
+    "partNumber" : "PEXN02300"
+  } ],
+  "isExchangePart" : false
+} ]
